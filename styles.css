@@ -45,13 +45,21 @@ body {
     position: relative;
     margin-left: 20px;
     padding-left: 10px;
-    padding-top: 1px;
+    padding-top: 3px;
    
   }
   .phone img, .email img, .linkedin img {
     position: absolute;
-    margin-left: -22px;
-    padding-top: 1px;
+    margin-left: -26px;
+    padding-top: 6px;
+  }
+
+  .personal-info img{
+    max-width: 18px;
+    max-height: 18px;
+    display: inline;
+    margin-right: 5px;
+
   }
   
   .linkedin a{
@@ -63,13 +71,7 @@ body {
     border-radius: 2px;
   }
 
-  .personal-info img{
-    max-width: 15px;
-    max-height: 15px;
-    display: inline;
-    margin-right: 5px;
 
-  }
 /* ----------------TECHNOLOGIE ---------------   */
 
    .technologies ul{
