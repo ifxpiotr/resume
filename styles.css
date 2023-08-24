@@ -48,7 +48,7 @@ body {
     padding-top: 3px;
    
   }
-  .phone img, .email img, .linkedin img, .github {
+  .phone img, .email img, .linkedin img, .github img{
     position: absolute;
     margin-left: -26px;
     padding-top: 6px;
@@ -71,7 +71,10 @@ body {
     border-radius: 2px;
   }
 
-
+  .github a {
+    text-decoration: none;
+    color: black;
+  }
 /* ----------------TECHNOLOGIE ---------------   */
 
    .technologies ul{
