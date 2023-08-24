@@ -41,14 +41,14 @@ body {
     color: grey;
   }
 
-  .phone, .email, .linkedin {
+  .phone, .email, .linkedin, .github {
     position: relative;
     margin-left: 20px;
     padding-left: 10px;
     padding-top: 3px;
    
   }
-  .phone img, .email img, .linkedin img {
+  .phone img, .email img, .linkedin img, .github {
     position: absolute;
     margin-left: -26px;
     padding-top: 6px;
