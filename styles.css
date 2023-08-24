@@ -4,6 +4,10 @@ body {
     padding: 0;
   }
 
+  .section {
+    max-width: 900px;
+    word-wrap: break-word;
+  }
 /* linia separacyjna miedzy sekcjami, poza pierwszą */
 
   .section:not(:first-child) {
