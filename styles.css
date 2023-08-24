@@ -5,6 +5,10 @@ body {
     padding: 0;
   }
 
+  @page {
+    size: A4;
+  }
+
   .section {
     max-width: 1300px;
     word-wrap: break-word;
