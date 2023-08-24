@@ -117,7 +117,12 @@ body {
     font-size: 20px;
   }
 
+/* ------- EDUKACJA ----------------------------*/
 
+.education ul li span {
+    display: inline-block;
+    width: 620px;
+}
 
 /* -------------  KLAUZULA RODO ---------------- */
 
