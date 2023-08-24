@@ -44,11 +44,6 @@ body {
     margin-bottom: 10px;
     color: grey;
   }
-
-  p.github img{
-    height: 18px;
-  }
-
   .phone, .email, .linkedin, .github {
     position: relative;
     margin-left: 20px;
